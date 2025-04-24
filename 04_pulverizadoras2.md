@@ -69,7 +69,7 @@ Ingeniería Rural 2.0. Esquema de una pulverizadora con bomba volumétrica</span
 
 <center>![](pulverizadora_esquema_bomba_centrifuga.png){width=500px}</center>
 <center><span class="grey3 size80">Fuente: 
-Ingeniería Rural 2.0. Esquema de una pulverizadora con bomba volumétrica</span></center>
+Ingeniería Rural 2.0. Esquema de una pulverizadora con bomba centrífuga</span></center>
 
 
 <br><br>

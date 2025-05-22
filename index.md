@@ -28,6 +28,8 @@ version: "01/03/25"
 - [4. Tipos y funcionamiento de las pulverizadoras](04_pulverizadoras2.html)
 
 - [5. Regulación y calibración de pulverizadoras (Alternancia 2)](05_pulverizadoras3.html)
+- [6. Problemas integradores sobre pulverizadoras](06_pulverizadoras4.html)
+
 
 <span hidden>Fin archivo</span>
 

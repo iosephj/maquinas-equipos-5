@@ -30,6 +30,8 @@ version: "01/03/25"
 - [5. Regulación y calibración de pulverizadoras (Alternancia 2)](05_pulverizadoras3.html)
 - [6. Problemas integradores sobre pulverizadoras](06_pulverizadoras4.html)
 
+- [7. Introducción a las fertilizadoras](07_fertilizadoras1.html)
+
 
 <span hidden>Fin archivo</span>
 

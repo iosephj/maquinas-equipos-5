@@ -8,7 +8,7 @@ version: "27/05/25"
 <span hidden>Local path of images: "H:/cfr/mye5/_i/"</span>
 
 <span hidden>Image</span>
-   <center>![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D%C3%BCngerstreuer.jpg/500px-D%C3%BCngerstreuer.jpg){width=500px}</center>
+   <center>![](fertilizadora_doble_disco.png){width=500px}</center>
    <center><span class="grey3 size80">Fuente: Wikipedia. Fertilizadora adosada a un tractor con doble disco.</span></center>
 
 
@@ -74,6 +74,12 @@ Copia el siguiente texto pero completado con las palabras que faltan. En cada l�
 </div>
 
 
+<br><br>
+
+
+## Actividad 3: Tipos de fertilizadoras para sólidos
+
+Estas se pueden dividir en dos grandes grupos: a) de cobertura total o al voleo, y b) de aplicación localizada. Investiga y explica en 4 renglones como máximo, usando tus propias palabras, para qué se usa cada una.
 
 <!-- HTML style definitions -->
 <style>
